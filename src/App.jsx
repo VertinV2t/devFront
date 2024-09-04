@@ -6,7 +6,7 @@ const temp = [];
 
 function App() {  
   const link = window.location.href.slice(22);
-  const [current, setCurrent] = useState(link.toLocaleUpperCase().slice(0,1)+link.slice(1).toLocaleLowerCase());
+  const [current, setCurrent] = useState("select below");
 
   return (
     <>
