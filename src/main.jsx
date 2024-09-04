@@ -7,10 +7,10 @@ import {
 import App from './App.jsx'
 import './index.css'
 import ErrorPage from './errorpage.jsx';
-import Students from './students.jsx';
+import Students from './Students.jsx';
 import Instructors from './Instructors.jsx';
 import Courses from './Courses.jsx';
-import StudentDetails from './studentDetails.jsx';
+import StudentDetails from './StudentDetails.jsx';
 import InstructorDetails from './InstructorDetails.jsx';
 import CourseDetails from './CourseDetails.jsx';
 import Enrollments from './Enrollments.jsx';
